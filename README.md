@@ -1,2 +1,2 @@
-# currency-converter
+# Currency Converter
 Currency Converter made with Tkinter in Python
