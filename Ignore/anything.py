@@ -77,7 +77,6 @@ side_frame.grid(row=2, column=0, padx=10, pady=10, sticky="we")
 history_frame = ttk.LabelFrame(frame)
 history_frame.grid(row=3, column=0, padx=10, pady=10, sticky="we")
 
-
 currencies=["USD", "SAR", "JPY", "BHD", "CAD", "GBP"]
 
 default_font = "Segoe UI Light"
